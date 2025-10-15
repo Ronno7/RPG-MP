@@ -79,8 +79,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 1016801391
-  m_SortingLayer: 0
+  m_SortingLayerID: 111828669
+  m_SortingLayer: 3
   m_SortingOrder: 0
   m_Sprite: {fileID: -2947377610041532691, guid: 68d8439c8e6b1704586f34f607d9357c, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -318,6 +318,14 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5676748941544246073, guid: 70ef55587d142384880f3f291ce51df9, type: 3}
+      propertyPath: m_textAlignment
+      value: 65535
+      objectReference: {fileID: 0}
+    - target: {fileID: 5676748941544246073, guid: 70ef55587d142384880f3f291ce51df9, type: 3}
+      propertyPath: m_TextStyleHashCode
+      value: -1183493901
+      objectReference: {fileID: 0}
+    - target: {fileID: 5676748941544246073, guid: 70ef55587d142384880f3f291ce51df9, type: 3}
       propertyPath: m_textInfo.lineCount
       value: 1
       objectReference: {fileID: 0}
@@ -330,8 +338,16 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5676748941544246073, guid: 70ef55587d142384880f3f291ce51df9, type: 3}
+      propertyPath: m_HorizontalAlignment
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5676748941544246073, guid: 70ef55587d142384880f3f291ce51df9, type: 3}
       propertyPath: m_textInfo.characterCount
       value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 5676748941544246073, guid: 70ef55587d142384880f3f291ce51df9, type: 3}
+      propertyPath: 'm_ActiveFontFeatures.Array.data[0]'
+      value: 1801810542
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
