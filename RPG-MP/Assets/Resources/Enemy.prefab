@@ -229,6 +229,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 7242619531184235755}
     m_Modifications:
+    - target: {fileID: 105080817493025006, guid: 70ef55587d142384880f3f291ce51df9, type: 3}
+      propertyPath: m_PresetInfoIsWorld
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 436857818609241938, guid: 70ef55587d142384880f3f291ce51df9, type: 3}
       propertyPath: m_Name
       value: HeaderInfo
